@@ -1,41 +1,51 @@
-# 🚀 Hey, I'm **Mohammad Khalil Javadi**  
-### A Developer Who Creates, Learns, and Builds Cool Things! 💡  
+# 🚀 سلام، من **محمد خلیل جوادی** هستم!  
+### توسعه‌دهنده‌ای که می‌سازد، یاد می‌گیرد و همیشه به دنبال چالش‌های جدید است! 💡  
 
-💻 **Web Developer | Problem Solver | Code Enthusiast**  
-🔥 Passionate about learning and experimenting with new technologies  
-
----
-
-## 🔥 About Me  
-I’m a **self-driven developer** with a deep love for coding and web technologies.  
-Every project I work on is not just code—it’s an **experience**, an **idea**, and a **solution** in action.  
-
-- 👨‍💻 Coding for over a year and pushing boundaries in **frontend development**  
-- 🚀 Always exploring new tech and building innovative applications  
-- 🎯 Love solving complex challenges and making seamless user experiences  
-- 🌱 Constantly learning and growing as a developer  
+💻 **توسعه‌دهنده وب | متخصص تعمیرات | عاشق ورزش و تکنولوژی**  
+🔥 علاقه‌مند به یادگیری، حل مسائل پیچیده، و ساخت پروژه‌های نوآورانه  
 
 ---
 
-## 🛠️ Tech Stack & Tools  
-🚀 **Languages & Frameworks:**  
+## 🔥 درباره‌ی من  
+من یک **برنامه‌نویس پرتلاش** و **متخصص تعمیرات دیتا پروژکتور** هستم که عاشق دنیای تکنولوژی و حل مشکلات پیچیده‌ام.  
+هر پروژه‌ای که روی آن کار می‌کنم، فقط یک سری کد نیست—بلکه یک **ایده**، یک **تجربه** و یک **راه‌حل** در حال اجرا است!  
+
+- 👨‍💻 بیش از یک سال تجربه در دنیای توسعه‌ی وب و ساخت رابط‌های کاربری مدرن  
+- 🛠️ مهارت در تعمیرات و سرویس **انواع دیتا پروژکتور**  
+- 🚀 همیشه به دنبال یادگیری تکنولوژی‌های جدید و توسعه‌ی مهارت‌هایم  
+- 🎯 علاقه‌مند به حل چالش‌های فنی و ساخت تجربه‌های کاربری روان  
+- 🌱 عاشق ورزش‌های **شنا** و **پارکور**  
+
+---
+
+## 🛠️ مهارت‌ها و ابزارها  
+🚀 **زبان‌ها و فریمورک‌ها:**  
 🔹 HTML | CSS | JavaScript | SASS | jQuery | React  
 
-🌐 **Backend & APIs:**  
+🌐 **بک‌اند و API‌ها:**  
 🔹 REST APIs | JSON Server | Browser Router  
 
-🛠️ **Other Skills:**  
-🔹 UI/UX Design | Responsive Web Development | Optimization  
+🛠️ **دیگر مهارت‌ها:**  
+🔹 تعمیرات تخصصی دیتا پروژکتور | طراحی UI/UX | بهینه‌سازی و توسعه‌ی وب واکنش‌گرا  
 
 ---
 
-## 📢 Let's Connect!  
-🚀 Looking to collaborate or chat about development? Hit me up!  
+## 📢 راه‌های ارتباطی  
+🚀 به دنبال همکاری یا گفت‌وگو درباره‌ی توسعه، تعمیرات یا ورزش هستید؟ با من در تماس باشید!  
 
-- **📩 Telegram:** [@m_khalil_j](https://t.me/m_khalil_j)  
-- **📷 Instagram:** [m_khalil_j](https://www.instagram.com/m_khalil_j)  
+<p align="center">
+    <a href="https://github.com/javadi2810">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://t.me/m_khalil_j">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+    <a href="https://www.instagram.com/m_khalil_j">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+</p>
 
 ---
 
-### 💡 “Code is more than syntax—it’s creativity in motion.”  
-Keep building, keep innovating! 🚀  
+### 💡 "یادگیری و توسعه، دو بال موفقیت هستند."  
+همیشه بساز، همیشه نوآوری کن! 🚀  
