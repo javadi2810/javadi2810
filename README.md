@@ -23,10 +23,12 @@
 🔹 HTML | CSS | JavaScript | SASS | jQuery | React  
 
 🌐 **بک‌اند و API‌ها:**  
-🔹 REST APIs | JSON Server | Browser Router  
+🔹 REST APIs | JSON Server | Browser Router | **Axios**  
 
 🛠️ **دیگر مهارت‌ها:**  
-🔹 طراحی UI/UX | توسعه‌ی وب واکنش‌گرا | بهینه‌سازی کد | **تعمیرات تخصصی دیتا پروژکتور**  
+🔹 **Git | GitHub | Swiper.js**  
+🔹 طراحی UI/UX | توسعه‌ی وب واکنش‌گرا | بهینه‌سازی کد  
+🔹 **تعمیرات تخصصی دیتا پروژکتور**  
 
 ---
 
